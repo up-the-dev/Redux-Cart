@@ -8,3 +8,5 @@ topic included:
 5. how to dispatch actions
 6. use to subscribe to the slice(to get updated data)
 
+fake api used:
+'https://fakestoreapi.com/products'
